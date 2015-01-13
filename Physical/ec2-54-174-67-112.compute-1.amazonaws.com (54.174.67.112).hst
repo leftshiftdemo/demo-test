@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><editableResource createdTimestamp="1421189062888" createdUser="john" id="-21cdccd6:14ae5761430:-7e87" selfDescribing="ec2-54-174-67-112.compute-1.amazonaws.com (54.174.67.112)" type="host_machine_resource" updatedTimestamp="1421189062888" updatedUser="john" version="1.0">
+   <loggingConfiguration debug="false" writeStubEventsToDB="false"/>
+   <resourceConfig host_address="54.174.67.112" user_host_name="ec2-54-174-67-112.compute-1.amazonaws.com"/>
+</editableResource>

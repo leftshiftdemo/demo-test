@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><editableResource createdTimestamp="1421189062705" createdUser="john" id="-21cdccd6:14ae5761430:-7e92" selfDescribing="http ec2-54-174-67-112.compute-1.amazonaws.com:8080 " type="http_transport" updatedTimestamp="1421189062705" updatedUser="john" version="1.0">
+   <loggingConfiguration debug="false" writeStubEventsToDB="false"/>
+   <resourceConfig transportName="" transportTemplateName="HTTP">
+      <messageProperties ReasonPhrase="No Stub available that matches the request" clientConnectionsPerHost="100" credDomain="" credPassword="#com.ghc.1!f92b" credType="0" credUser="" httpHost="ec2-54-174-67-112.compute-1.amazonaws.com" httpNtlmDomain="" httpPort="8080" httpProxyHost="" httpProxyPassword="#com.ghc.1!6444" httpProxyPort="" httpProxyUsername="" httpResourceRoot="" httpServerSocketBindAddressOverride="" httpServerSocketPortOverride="" httpSocketTimeout="" httpTimeoutResponseCode="503" httpVirtualHost="" performValidation="false" recType="PROXY" specifyProvidedCertificate="false" specifyTrustedCertificate="false" useSSL="false" verifyCerts="false" version="3">
+         <serverAuthentication>
+            <authenticationConfig enabled="false" realm="" type="1"/>
+            <authenticationConfig algorithm="" authParams="" domain="" enabled="false" nonce="false" opaque="" qop="" realm="" stale="" type="2"/>
+            <authenticationConfig enabled="false" type="3"/>
+            <authenticationConfig enabled="false" type="5"/>
+         </serverAuthentication>
+      </messageProperties>
+   </resourceConfig>
+</editableResource>

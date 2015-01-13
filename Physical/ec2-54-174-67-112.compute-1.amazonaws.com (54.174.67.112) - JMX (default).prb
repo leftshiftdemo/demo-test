@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><editableResource createdTimestamp="1421189064311" createdUser="john" id="-21cdccd6:14ae5761430:-7e80" selfDescribing="ec2-54-174-67-112.compute-1.amazonaws.com (54.174.67.112) - JMX (default)" type="probe_resource" updatedTimestamp="1421189064311" updatedUser="john" version="1.0">
+   <loggingConfiguration debug="false" writeStubEventsToDB="false"/>
+   <resourceConfig defaultFlag="true" name="default" physicalResourceID="-21cdccd6:14ae5761430:-7e87" probeID="ghviewer.plugin.jmx">
+      <JmxDatasource configuration="default"/>
+   </resourceConfig>
+</editableResource>
